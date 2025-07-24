@@ -324,3 +324,5 @@ Garbow 算法是 Tarjan 算法的另一种实现，Tarjan 算法是用 dfn 和 l
 [USACO Fall/HAOI 2006 受欢迎的牛](https://loj.ac/problem/10091)
 
 [POJ1236 Network of Schools](http://poj.org/problem?id=1236)
+
+[Luogu P2863 [USACO06JAN] The Cow Prom S](https://www.luogu.com.cn/problem/P2863)
